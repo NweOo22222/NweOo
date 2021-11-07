@@ -12,6 +12,7 @@
 
 ### Backend
 
+- [NestJS](https://nestjs.com)
 - [NodeJS](https://nodejs.org)
 - [Firebase Admin](https://firebase.google.com/docs/reference/admin)
 
